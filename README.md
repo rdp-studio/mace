@@ -2,12 +2,6 @@
 <img src="docs/mace-logo.png" width="400" alt="MACE" />
 </div>
 
-
-[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
-[![Build Status](https://travis-ci.org/XiaoMi/mace.svg?branch=master)](https://travis-ci.org/XiaoMi/mace)
-[![pipeline status](https://gitlab.com/llhe/mace/badges/master/pipeline.svg)](https://gitlab.com/llhe/mace/pipelines)
-[![doc build status](https://readthedocs.org/projects/mace/badge/?version=latest)](https://readthedocs.org/projects/mace/badge/?version=latest)
-
 [Documentation](https://mace.readthedocs.io) |
 [FAQ](https://mace.readthedocs.io/en/latest/faq.html) |
 [Release Notes](RELEASE.md) |
